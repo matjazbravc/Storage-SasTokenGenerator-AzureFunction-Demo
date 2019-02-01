@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "Logging.Storage.TableName": "LogAzureFunctions",
+    "StorageAccount.ConnectionString": "UseDevelopmentStorage=true"
+  }
+}
