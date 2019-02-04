@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net461</TargetFramework>
     <AssemblyName>StorageSasTokenGeneratorAzureFunctionDemo</AssemblyName>
@@ -15,7 +15,8 @@
     <PackageReference Include="Serilog.Sinks.PeriodicBatching" Version="2.1.1" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
     <PackageReference Include="WindowsAzure.Storage" Version="8.7.0" />
-  </ItemGroup>  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>

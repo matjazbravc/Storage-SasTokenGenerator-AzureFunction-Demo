@@ -1,4 +1,4 @@
-# Azure Storage SAS token generator function demo
+# Storage SAS token generator Azure Function Demo
 
 A shared access signature (SAS) provides you with a way to grant limited access to objects in your storage account to other clients, without exposing your account key.
 [Read more.](https://docs.microsoft.com/en-us/azure/storage/common/storage-dotnet-shared-access-signature-part-1)
@@ -38,3 +38,8 @@ Finally test it with [Postman](https://getpostman.com):
 ![](https://github.com/matjazbravc/Storage-SasTokenGenerator-AzureFunction-Demo/blob/master/res/postman_function_test.jpg)
 
 Enjoy!
+
+## Licence
+
+Licenced under [MIT](http://opensource.org/licenses/mit-license.php).
+Developed by [Matjaž Bravc](https://si.linkedin.com/in/matjazbravc)
